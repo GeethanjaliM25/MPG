@@ -1,6 +1,6 @@
 # Multiple Program Analysis on MPG Dataset 🚗
 
-This mini-project demonstrates multiple Python programs analyzing and predicting car fuel efficiency using the MPG dataset...
+This mini-project demonstrates multiple Python programs analyzing and predicting car fuel efficiency using the MPG dataset..
 
 ## 🧩 Programs
 1. **program1_load_display.py** — Load and preview dataset  
