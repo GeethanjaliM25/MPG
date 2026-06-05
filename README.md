@@ -8,7 +8,7 @@ This mini-project demonstrates multiple Python programs analyzing and predicting
 3. **program3_visualization.py** — Create visualizations  
 4. **program4_correlation.py** — Analyze correlations  
 5. **program5_regression_model.py** — Train regression model  
-6. **program6_prediction_user_input.py** — Predict MPG with user input  
+6. **program6_prediction_user_input.py** — Predict MPG with user input.
 
 ## ⚙️ Setup
 ```bash
