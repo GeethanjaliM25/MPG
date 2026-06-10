@@ -12,4 +12,4 @@ This mini-project demonstrates multiple Python programs analyzing and predicting
 
 ## ⚙️ Setup
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ..
