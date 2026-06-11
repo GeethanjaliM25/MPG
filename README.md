@@ -1,4 +1,4 @@
-# Multiple Program Analysis on MPG Dataset 🚗 
+# Multiple Program Analysis on MPG Dataset 🚗  
 
 This mini-project demonstrates multiple Python programs analyzing and predicting car fuel efficiency using the MPG dataset
 
